@@ -1,4 +1,3 @@
-# .github
 We build diagramming and data visualization projects for SaaS companies, enterprises, and Fortune 500 brands worldwide – delivering solutions 3x faster while improving usability, scalability, and performance.
 
 Our products:
