@@ -1,4 +1,4 @@
-We build diagramming and data visualization projects for SaaS companies, enterprises, and Fortune 500 brands worldwide – delivering solutions 3x faster while improving usability, scalability, and performance.
+We build diagramming and data visualization tools for SaaS companies, enterprises, and Fortune 500 brands worldwide – delivering solutions 3x faster while improving usability, scalability, and performance.
 <br/><br/>
 
 ![baner1](https://github.com/user-attachments/assets/5e44fbc3-42ec-428f-86a2-12a780b8cadd)
