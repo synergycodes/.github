@@ -47,4 +47,4 @@ Debug complex graphs with our [Community](https://www.synergycodes.com/community
 
 Visit our websites for [React Flow](https://www.synergycodes.com/react-flow), [GoJS](https://www.synergycodes.com/gojs) or [Yjs](https://www.synergycodes.com/yjs) support or contact us directly at hello@synergycodes.com.
 
-Into diagrams? Follow our CEO, Maciej Teska on [Linkedin](https://www.linkedin.com/in/maciej-teska/) and [Twitter](https://x.com/Maciej_Teska).
+Into diagrams? Follow our CEO, Maciej Teska on [Linkedin](https://www.linkedin.com/in/maciej-teska/) and [X](https://x.com/Maciej_Teska).
