@@ -25,6 +25,8 @@ Using our SDKs you get actively maintained projects, proven in real-world applic
 
 * [OverFlow](https://www.overflow.dev/): Comprehensive set of functional and open-source UI React Flow components that enable you to quickly and intuitively build advanced user flows, diagrams, and node-based editors. Utilize our design expertise for diagrams [now](https://github.com/synergycodes/overflow-ui).
 
+* [ngDiagram](https://www.ngdiagram.dev): Open-source Angular library for creating interactive diagrams, such as flow charts, network and schematic diagrams, or node-based editors. ngDiagram provides draggable nodes, customizable edges, groups, and a palette system. Built with TypeScript and Angular signals for performance, with vast customization options with Angular templates. Works with Angular 18+. Try it [here](https://github.com/synergycodes/ng-diagram).
+
 Check these free resources:
 * [React Flow Webbooks](https://www.synergycodes.com/react-flow-ebooks)
 * [GoJS ebook](https://www.synergycodes.com/gojs-ebook)
