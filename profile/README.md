@@ -18,10 +18,10 @@ You’ll find here our production-ready tools, examples, and SDKs to help you bu
 ![baner1](https://github.com/user-attachments/assets/5e44fbc3-42ec-428f-86a2-12a780b8cadd)
 <br/><br/>
 
-<h2>SKDs and open-source</h2>
+<h2>SDKs and open-source</h2>
 Using our SDKs you get actively maintained projects, proven in real-world applications with stability in mind.
 
-* [Workflow Builder SKD](https://www.workflowbuilder.io/): Frontend-first React SDK for creating complex workflow editors. Designed for hassle-free integration with any backend, it delivers everything you need to design workflows faster – from drag-and-drop nodes to customizable layouts. Try it [here](https://github.com/workflowbuildersdk/workflowbuilder).
+* [Workflow Builder SDK](https://www.workflowbuilder.io/): Frontend-first React SDK for creating complex workflow editors. Designed for hassle-free integration with any backend, it delivers everything you need to design workflows faster – from drag-and-drop nodes to customizable layouts. Try it [here](https://github.com/workflowbuildersdk/workflowbuilder).
 
 * [OverFlow](https://www.overflow.dev/): Comprehensive set of functional and open-source UI React Flow components that enable you to quickly and intuitively build advanced user flows, diagrams, and node-based editors. Utilize our design expertise for diagrams [now](https://github.com/synergycodes/overflow-ui).
 
