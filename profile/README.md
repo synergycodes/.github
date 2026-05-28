@@ -1,7 +1,7 @@
 <h1>Synergy Codes: A diagramming software agency</h1>
 
 You’ll find here our production-ready tools, examples, and SDKs to help you build diagram editors faster. We provide first-class support for GoJS, React Flow, and Yjs. With our library of robust, ready-to-use features for diagram interfaces, you can validate a PoC up to 3× faster. Trusted by SaaS teams and Fortune 500 organizations worldwide.
-<p><strong>With 12+ years, 70+ engineers, and 100+ clients — we deliver expert solutions, like:</strong></p>
+<p><strong>With 15 years, 70+ engineers, and 200+ projects — we deliver expert solutions, like:</strong></p>
 
 * Real-time IoT diagrams
 * Rule-based product configurators
