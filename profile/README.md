@@ -1,7 +1,7 @@
-<h1>Synergy Codes: A diagramming software agency</h1>
+<h1>Synergy Codes: Diagramming & workflow editor experts</h1>
 
-You’ll find here our production-ready tools, examples, and SDKs to help you build diagram editors faster. We provide first-class support for GoJS, React Flow, and Yjs. With our library of robust, ready-to-use features for diagram interfaces, you can validate a PoC up to 3× faster. Trusted by SaaS teams and Fortune 500 organizations worldwide.
-<p><strong>With 15 years, 70+ engineers, and 200+ projects — we deliver expert solutions, like:</strong></p>
+You’ll find here our production-ready tools, examples, and SDKs to help you build diagram editors faster. We provide first-class support for GoJS, React Flow, ngDiagram and Yjs. With our library of robust, ready-to-use features for diagram interfaces, you can validate a PoC up to 3× faster. Trusted by SaaS teams and Fortune 500 organizations worldwide.
+<p><strong>15+ years, 200+ workflow products, 20+ industries — we deliver expert solutions, like:</strong></p>
 
 * Real-time IoT diagrams
 * Rule-based product configurators
@@ -18,7 +18,7 @@ You’ll find here our production-ready tools, examples, and SDKs to help you bu
 ![baner1](https://github.com/user-attachments/assets/5e44fbc3-42ec-428f-86a2-12a780b8cadd)
 <br/><br/>
 
-<h2>SDKs and open-source</h2>
+<h2>Our flagship open source products:</h2>
 Using our SDKs you get actively maintained projects, proven in real-world applications with stability in mind.
 
 * [Workflow Builder SDK](https://www.workflowbuilder.io/): Frontend-first React SDK for creating complex workflow editors. Designed for hassle-free integration with any backend, it delivers everything you need to design workflows faster – from drag-and-drop nodes to customizable layouts. Try it [here](https://github.com/synergycodes/workflowbuilder).
