@@ -1,4 +1,4 @@
-<h1>Synergy Codes: Diagramming & workflow editor experts</h1>
+<h1>Synergy Codes: diagramming & workflow editor experts</h1>
 
 You’ll find here our production-ready tools, examples, and SDKs to help you build diagram editors faster. We provide first-class support for GoJS, React Flow, ngDiagram and Yjs. With our library of robust, ready-to-use features for diagram interfaces, you can validate a PoC up to 3× faster. Trusted by SaaS teams and Fortune 500 organizations worldwide.
 <p><strong>15+ years, 200+ workflow products, 20+ industries — we deliver expert solutions, like:</strong></p>
