@@ -21,7 +21,7 @@ You’ll find here our production-ready tools, examples, and SDKs to help you bu
 <h2>Our flagship open source products:</h2>
 Using our SDKs you get actively maintained projects, proven in real-world applications with stability in mind.
 
-* [Workflow Builder SDK](https://www.workflowbuilder.io/): Apache 2.0 React SDK for embedding visual workflow editors. Drag-and-drop workflow builder UI with a reference back-end and an execution engine swappable by design, proven with Temporal. Back-end agnostic. Built on React Flow and Temporal. Reference stack for AI workflows and automations in digital products. Try it [here](https://github.com/synergycodes/workflowbuilder).
+* [Workflow Builder](https://www.workflowbuilder.io/): Open-source AI workflow orchestration framework for cases that run for weeks, wait for a person, and never get lost. Each step is your code, an AI agent, or a human decision. The Runtime takes every case to a final state and keeps its record, the Editor embeds in your product as a React component, and Temporal runs underneath for durable execution. Apache 2.0, self-hosted on your infrastructure. Try it [here](https://github.com/synergycodes/workflowbuilder).
 
 * [OverFlow](https://www.overflow.dev/): Comprehensive set of functional and open-source UI React Flow components that enable you to quickly and intuitively build advanced user flows, diagrams, and node-based editors. Utilize our design expertise for diagrams [now](https://github.com/synergycodes/overflow-ui).
 
